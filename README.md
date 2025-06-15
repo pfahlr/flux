@@ -1,13 +1,11 @@
-![
+```
     _/_/_/_/  _/                  _/      _/   
    _/        _/        _/    _/    _/  _/      
   _/_/_/    _/        _/    _/      _/         
  _/        _/        _/    _/    _/  _/        
 _/        _/_/_/_/    _/_/_/  _/      _/       
-*Wrap. Serve. Flux.*                                           
-](./logo.svg)
-
-
+*Wrap. Serve. Flux.*
+```
 # FLUX
 
 > **FLUX** = *FLUX Launches Unix Executables*
@@ -113,3 +111,10 @@ Pull requests welcome! Please open issues to discuss changes before submitting l
 ---
 
 Happy fluxing.
+![    _/_/_/_/  _/                  _/      _/   
+   _/        _/        _/    _/    _/  _/      
+  _/_/_/    _/        _/    _/      _/         
+ _/        _/        _/    _/    _/  _/        
+_/        _/_/_/_/    _/_/_/  _/      _/       
+*Wrap. Serve. Flux.*](./logo.svg)
+
